@@ -1,0 +1,1 @@
+{"bus_only_station":"CC-BDX","forced_open":["CC-TM1","CC-HH1","CC-HH2"],"delta_stalls_budget":12,"allow_station_flip":false,"balance_radius":6,"weight":{"w1":0.33557046979865768,"w2":0.33221476510067116,"w3":0.33221476510067116},"alpha":0.00036,"beta":0.00215,"lambda_pen":50}
